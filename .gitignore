@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/synthetic/
+data/vehicle_frames/
+data/kitti_sample/
+out_shipcheck/
