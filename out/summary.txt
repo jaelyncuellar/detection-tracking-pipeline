@@ -1,0 +1,6 @@
+frames processed: 60
+detector: color
+car: 1 unique track ID(s) -> [2]
+pedestrian: 1 unique track ID(s) -> [1]
+truck: 1 unique track ID(s) -> [3]
+occlusion check (frames 30-36, car behind pole): PASS - car kept a single ID through the occlusion

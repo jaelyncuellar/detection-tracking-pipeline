@@ -1,0 +1,7 @@
+numpy>=1.26
+pillow>=10.0
+# Real-data detector path only (src/run_pipeline.py --detector yolo):
+# ultralytics>=8.3
+# Lighter real-data alternative (src/run_pipeline.py --detector yolo_onnx):
+# same YOLO11n weights as an ~11 MB .onnx asset, no torch install:
+# onnxruntime>=1.17
