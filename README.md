@@ -4,6 +4,10 @@ A Python perception pipeline that watches a sequence of camera frames, detects r
 
 This project explores one of the core building blocks of robotics and autonomous-vehicle perception: turning individual image detections into stable object tracks that planning and control systems can use over time.
 
+![Detection and tracking - portfolio cover](docs/portfolio/detection-tracking.webp)
+
+*Cover image from the [portfolio case study](https://jaelyncuellar.com/projects/detection-tracking-pipeline). The exact image used on jaelyncuellar.com is kept in this repo under `docs/portfolio/`.*
+
 ## Demo
 
 ### Synthetic test sequence
